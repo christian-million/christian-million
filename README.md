@@ -1,6 +1,6 @@
 # About Me
 
-By day, I'm the Director of College Research and Planning at [Modesto Junior College](https://mjc.edu/general/research/). Nights and weekends, I like to develop my programming and computer science skills in any way that I can.
+I like to develop my programming and computer science skills in any way that I can.
 
 I am always interested in opportunities that would allow me to volunteer my time and skills - especially open source projects and project that support underserved communities. The open source community has provide immeasurable value to my skill set (and subsequently [my professional endeavors](https://www.linkedin.com/in/christianmillion/)) and I love to give back where I can.
 
